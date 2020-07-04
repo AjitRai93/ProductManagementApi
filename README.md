@@ -1,2 +1,8 @@
 # ProductManagementApi
-Spring Boot API for viewing,adding and deleting products using Spring Data Jpa and Mysql database. 
+API are build using Spring Boot for Finding, Adding and Deleting products from Database. 
+
+#Swagger
+For Documenting the API's for better visualization, testing and bug Fixing.
+
+#Database used:
+MySQL
